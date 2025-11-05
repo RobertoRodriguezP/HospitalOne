@@ -1,0 +1,17 @@
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Infrastructure.deps.json
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Infrastructure.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Infrastructure.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Application.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Domain.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Application.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\bin\Debug\net8.0\HospitalOne.Domain.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.AssemblyInfo.cs
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\Hospital.3D5B5984.Up2Date
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\refint\HospitalOne.Infrastructure.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\HospitalOne.Infrastructure.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Infrastructure\obj\Debug\net8.0\ref\HospitalOne.Infrastructure.dll

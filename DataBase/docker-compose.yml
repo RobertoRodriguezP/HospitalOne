@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  mssql-hospital:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: mssql-hospital-one
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=HospitalOne@2024
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-hospital-data:/var/opt/mssql
+    restart: unless-stopped
+    networks:
+      - hospital-network
+    healthcheck:
+      test: /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P "HospitalOne@2024" -Q "SELECT 1" || exit 1
+      interval: 10s
+      timeout: 3s
+      retries: 10
+      start_period: 30s
+
+volumes:
+  mssql-hospital-data:
+
+networks:
+  hospital-network:
+    driver: bridge

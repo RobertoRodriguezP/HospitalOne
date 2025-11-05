@@ -1,0 +1,8 @@
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.csproj.AssemblyReference.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.AssemblyInfoInputs.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.AssemblyInfo.cs
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.csproj.CoreCompileInputs.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne\obj\Debug\net8.0\HospitalOne.API.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,15 @@
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\bin\Debug\net8.0\HospitalOne.Application.deps.json
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\bin\Debug\net8.0\HospitalOne.Application.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\bin\Debug\net8.0\HospitalOne.Application.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\bin\Debug\net8.0\HospitalOne.Domain.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\bin\Debug\net8.0\HospitalOne.Domain.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.csproj.AssemblyReference.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.AssemblyInfoInputs.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.AssemblyInfo.cs
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.csproj.CoreCompileInputs.cache
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\Hospital.CA13F808.Up2Date
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\refint\HospitalOne.Application.dll
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\HospitalOne.Application.pdb
+C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Application\obj\Debug\net8.0\ref\HospitalOne.Application.dll
