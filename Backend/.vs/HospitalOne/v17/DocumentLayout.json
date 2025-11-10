@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\rrobe\\OneDrive\\Desktop\\HospitalOne\\HospitalOne\\Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F11B3-B6F7-41AA-A419-6A08D0BF724B}|HospitalOne.Domain\\HospitalOne.Domain.csproj|c:\\users\\rrobe\\onedrive\\desktop\\hospitalone\\hospitalone\\backend\\hospitalone.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5F11B3-B6F7-41AA-A419-6A08D0BF724B}|HospitalOne.Domain\\HospitalOne.Domain.csproj|solutionrelative:hospitalone.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5F11B3-B6F7-41AA-A419-6A08D0BF724B}|HospitalOne.Domain\\HospitalOne.Domain.csproj|c:\\users\\rrobe\\onedrive\\desktop\\hospitalone\\hospitalone\\backend\\hospitalone.domain\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5F11B3-B6F7-41AA-A419-6A08D0BF724B}|HospitalOne.Domain\\HospitalOne.Domain.csproj|solutionrelative:hospitalone.domain\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\rrobe\\OneDrive\\Desktop\\HospitalOne\\HospitalOne\\Backend\\HospitalOne.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "HospitalOne.Domain\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\rrobe\\OneDrive\\Desktop\\HospitalOne\\HospitalOne\\Backend\\HospitalOne.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "HospitalOne.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:08:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\rrobe\\OneDrive\\Desktop\\HospitalOne\\HospitalOne\\Backend\\HospitalOne.Domain\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "HospitalOne.Domain\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\rrobe\\OneDrive\\Desktop\\HospitalOne\\HospitalOne\\Backend\\HospitalOne.Domain\\Models\\Cliente.cs",
+              "RelativeToolTip": "HospitalOne.Domain\\Models\\Cliente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T18:07:46.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

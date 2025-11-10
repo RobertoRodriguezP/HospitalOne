@@ -14,4 +14,9 @@
     <ProjectReference Include="..\HospitalOne.Application\HospitalOne.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>

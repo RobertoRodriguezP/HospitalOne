@@ -10,3 +10,16 @@ C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Domain\obj\Debug\net8.0\Hosp
 C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Domain\obj\Debug\net8.0\refint\HospitalOne.Domain.dll
 C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.pdb
 C:\Users\rrobe\source\repos\HospitalOne\HospitalOne.Domain\obj\Debug\net8.0\ref\HospitalOne.Domain.dll
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\bin\Debug\net8.0\HospitalOne.Domain.deps.json
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\bin\Debug\net8.0\HospitalOne.Domain.dll
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\bin\Debug\net8.0\HospitalOne.Domain.pdb
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.csproj.AssemblyReference.cache
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.AssemblyInfoInputs.cache
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.AssemblyInfo.cs
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.sourcelink.json
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.dll
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\refint\HospitalOne.Domain.dll
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\HospitalOne.Domain.pdb
+C:\Users\rrobe\OneDrive\Desktop\HospitalOne\HospitalOne\Backend\HospitalOne.Domain\obj\Debug\net8.0\ref\HospitalOne.Domain.dll

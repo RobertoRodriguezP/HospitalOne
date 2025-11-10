@@ -1,4 +1,5 @@
-﻿using HospitalOne.Domain.Models;
+﻿using HospitalOne.Application.Common.Interfaces;
+using HospitalOne.Domain.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,32 +9,28 @@ using System.Threading.Tasks;
 
 namespace HospitalOne.Infrastructure.Data
 {
-    public class HospitalDbContext : DbContext
+    public class HospitalDbContext : DbContext, IApplicationDbContext
     {
-        public HospitalDbContext(DbContextOptions<HospitalDbContext> options) : base(options)
+        public HospitalDbContext(DbContextOptions<HospitalDbContext> options)
+            : base(options)
         {
         }
 
-        // DbSets
         public DbSet<Especialidad> Especialidades { get; set; }
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Doctor> Doctores { get; set; }
         public DbSet<Consultorio> Consultorios { get; set; }
         public DbSet<Cita> Citas { get; set; }
 
+        public Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+        {
+            return base.SaveChangesAsync(cancellationToken);
+        }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-
-            // Aplicar todas las configuraciones del ensamblado
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(HospitalDbContext).Assembly);
-
-            // O aplicarlas manualmente si prefieres:
-            // modelBuilder.ApplyConfiguration(new EspecialidadConfiguration());
-            // modelBuilder.ApplyConfiguration(new ClienteConfiguration());
-            // modelBuilder.ApplyConfiguration(new DoctorConfiguration());
-            // modelBuilder.ApplyConfiguration(new ConsultorioConfiguration());
-            // modelBuilder.ApplyConfiguration(new CitaConfiguration());
         }
     }
 }

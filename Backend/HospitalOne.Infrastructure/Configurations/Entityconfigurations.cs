@@ -8,7 +8,7 @@ namespace HospitalOne.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Especialidad> builder)
         {
-            builder.ToTable("Especialidades", "CerezosHospital");
+            builder.ToTable("Especialidades", "HospitalOne");
 
             builder.HasKey(e => e.EspecialidadID);
 
@@ -39,7 +39,7 @@ namespace HospitalOne.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Cliente> builder)
         {
-            builder.ToTable("Clientes", "CerezosHospital");
+            builder.ToTable("Clientes", "HospitalOne");
 
             builder.HasKey(c => c.ClienteID);
 
@@ -98,7 +98,7 @@ namespace HospitalOne.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Doctor> builder)
         {
-            builder.ToTable("Doctores", "CerezosHospital");
+            builder.ToTable("Doctores", "HospitalOne");
 
             builder.HasKey(d => d.DoctorID);
 
@@ -162,7 +162,7 @@ namespace HospitalOne.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Consultorio> builder)
         {
-            builder.ToTable("Consultorios", "CerezosHospital");
+            builder.ToTable("Consultorios", "HospitalOne");
 
             builder.HasKey(c => c.ConsultorioID);
 
@@ -215,7 +215,7 @@ namespace HospitalOne.Infrastructure.Configurations
     {
         public void Configure(EntityTypeBuilder<Cita> builder)
         {
-            builder.ToTable("Citas", "CerezosHospital");
+            builder.ToTable("Citas", "HospitalOne");
 
             builder.HasKey(c => c.CitaID);
 

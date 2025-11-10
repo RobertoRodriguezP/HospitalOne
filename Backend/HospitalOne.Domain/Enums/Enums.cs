@@ -58,7 +58,7 @@
     /// </summary>
     public enum TipoDocumento
     {
-        Cedula,
+        Cédula,
         Pasaporte,
         RUC,
         CarnetExtranjeria
