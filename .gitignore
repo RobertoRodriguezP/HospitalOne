@@ -241,6 +241,7 @@ appsettings.*.json
 *.db
 *.sqlite
 *.sqlite3
+*.v2
 
 # Backup files
 *.bak

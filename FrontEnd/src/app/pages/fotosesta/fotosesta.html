@@ -1,0 +1,62 @@
+<div class="dashboard p-6">
+  <div class="page-header">
+    <h1 class="title">Dashboard Hospitalario</h1>
+    <p class="subtitle">Bienvenido al sistema de gestión</p>
+  </div>
+
+  <div class="stats-grid">
+    <p-card *ngFor="let stat of stats" class="stat-card">
+      <div class="stat-inner">
+        <div>
+          <div class="muted">{{ stat.label }}</div>
+          <div class="value">{{ stat.value }}</div>
+          <div class="trend">{{ stat.trend }} vs mes anterior</div>
+        </div>
+        <div class="icon-box">
+          <i [class]="stat.icon" aria-hidden="true"></i>
+        </div>
+      </div>
+    </p-card>
+  </div>
+
+  <div class="charts-grid">
+    <p-card class="chart-card large">
+      <div class="card-title">Tendencia de Citas</div>
+      <div class="chart-area">
+        <p-chart type="bar" [data]="barData" [options]="barOptions" style="height:300px"></p-chart>
+      </div>
+    </p-card>
+
+    <p-card class="chart-card small">
+      <div class="card-title">Distribución de Pacientes</div>
+      <div class="chart-area">
+        <p-chart type="pie" [data]="pieData" [options]="pieOptions" style="height:280px"></p-chart>
+      </div>
+
+      <div class="legend mt-4">
+        <div *ngFor="let p of patientDistribution; let i = index" class="legend-item">
+          <span class="dot" [ngStyle]="{ 'background-color': ['#7c3aed','#0ea5e9','#f59e0b'][i] }"></span>
+          <span>{{ p.name }}: {{ p.value }}</span>
+        </div>
+      </div>
+    </p-card>
+  </div>
+
+  <p-card class="activity-card">
+    <div class="card-title">Actividad Reciente</div>
+    <div class="activity-list">
+      <div class="activity-item" *ngFor="let item of [
+        { time: 'Hace 2 horas', action: 'Nueva cita registrada', detail: 'Paciente: Juan García' },
+        { time: 'Hace 4 horas', action: 'Paciente admitido', detail: 'Sala: Consultorio 3' },
+        { time: 'Hace 6 horas', action: 'Reporte de especialista', detail: 'Cardiología - Dr. López' },
+        { time: 'Hace 8 horas', action: 'Cita completada', detail: 'Paciente: María Rodríguez' }
+      ]">
+        <div class="time">{{ item.time }}</div>
+        <div class="activity-body">
+          <div class="activity-action">{{ item.action }}</div>
+          <div class="activity-detail">{{ item.detail }}</div>
+        </div>
+      </div>
+    </div>
+  </p-card>
+</div>
