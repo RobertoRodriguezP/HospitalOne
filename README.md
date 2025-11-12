@@ -1,3 +1,4 @@
+
 # 🏥 Hospital One - Sistema de Gestión Hospitalaria
 
 > Proyecto Full Stack desarrollado para Coursera - Especialización en Desarrollo de Software
@@ -398,9 +399,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@example.com
+- GitHub: [@tu-usuario](https://github.com/RobertoRodriguezP)
+- LinkedIn: [Tu Perfil](https://linkedin.com/in/robertorobertorodriguezp)
+- Email: rroberto96@hotmail.com
 
 ## 🙏 Agradecimientos
 
